@@ -1,0 +1,14 @@
+Test Case:1
+Going through making 5 different accounts
+
+Test Case:2
+Going through three accounts and making deposits
+
+Test Case:3
+Make one withdraw for 4 accounts
+
+Test Case:4
+Run the program 6 times so it overwrites an inputtde account info
+
+Test Case:5
+Run the program once without doing anything

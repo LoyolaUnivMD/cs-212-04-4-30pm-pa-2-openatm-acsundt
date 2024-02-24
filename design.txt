@@ -1,0 +1,29 @@
+class Account:
+
+    initialize variables:
+    public account [];
+    public String name;
+
+    Constructor:
+    parameters: number of transactions, deposit, name
+    return:none
+
+    isOwner:
+    parameters: account[], name
+    return: boolean
+
+    deposit:
+    parameters:name
+    return: none
+
+    withdraw:
+    parameters: name
+    return: none
+
+    getStats:
+    parameters: none
+    return: array of stats
+
+    display:
+    parameters: name
+    return: none
